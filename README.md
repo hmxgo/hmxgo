@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋🏻
 
-- 🔭 I’m currently working on Go
+- 🔭 I’m currently working with Go
 - 🌱 I’m currently learning htmx
 
 <!-- 👯 I’m looking to collaborate on -->
