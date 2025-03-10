@@ -1,4 +1,4 @@
-### hey 👋
+### hi 👋
 
 - 🐶 Merely a coder adrift in the sea of creation  
 - 🐹 Love C-like languages
